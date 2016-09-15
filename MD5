@@ -1,4 +1,4 @@
-61747066253cfa2a1da28e1fe580f3b8 *DESCRIPTION
+7b5709db91a931837ecce06d2e2bffbd *DESCRIPTION
 0539e414ed526094917bb910e7d83b9b *NAMESPACE
 69b6edbd7332245df555d8ff41b56e4e *NEWS.md
 89994f635f01b917d55dde3cb9b4da5b *R/RcppExports.R
@@ -11,7 +11,7 @@ edb048636af8e2a333b5972f2f7db11a *man/scale_mat_inplace.Rd
 2a6f9e9e044a78154d3cfda5936d6f48 *src/Makevars
 8d46d69896a1f1d31ed76035a0e49d67 *src/Makevars.win
 833d1f6ca41d1b0e29ebd1cc8e71e172 *src/RcppExports.cpp
-d5a3a15cd9fd906f3ff8aa259939a92e *src/tkmeans.cpp
+dcc4ae9bfb0946ba2ac1b248ddd36bde *src/tkmeans.cpp
 52064201c876765442ca7790a0d136cc *tests/testthat.R
 7f1e004514524d81741df1e636e9fa67 *tests/testthat/test_BIC_one.rds
 8f7167afc2886a2ede0cfb023888724d *tests/testthat/test_clust_one.rds
